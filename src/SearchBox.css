@@ -1,0 +1,15 @@
+.SearchBox {
+  text-align: center;
+  margin-bottom: 25px;
+ 
+}
+#city{
+background-color: gba(0,0,0,0)	;
+color: white;
+border-radius: 10px;
+border: none;
+border: 2px solid blue;
+}
+.SearchBox label{
+  color: white;
+}
